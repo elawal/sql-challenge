@@ -1,5 +1,4 @@
-CREATE TABLE dept_manager (dept_no varchar, emp_no int);
-SELECT * FROM dept_manager;
+
 
 --List the employee number, last name, first name, sex, and salary of each employee.
 SELECT * FROM employees;
